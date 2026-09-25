@@ -1,22 +1,37 @@
-# Indonesia Digital Twin Community (IDTC) — Pokja 2
+# Indonesia Digital Twin Community (IDTC)
 
-**Data · Teknologi · Implementasi** — *Membuktikan melalui implementasi nyata.*
+**Connect · Collaborate · Innovate** — *Satu Data, Satu Visi, Satu Masa Depan untuk Indonesia.*
 
-Pokja 2 IDTC adalah wadah kolaborasi praktisi pemerintah, akademisi, BUMN, dan swasta untuk membangun **pilot project Digital Twin yang nyata, terukur, dan bisa direplikasi** di Indonesia.
+IDTC adalah wadah kolaborasi praktisi pemerintah, akademisi, BUMN, dan swasta untuk membangun
+**ekosistem Digital Twin Indonesia** — melalui standar yang disepakati bersama, pilot project yang
+nyata dan terukur, serta SDM yang kompeten.
+
+🌐 **[idtc-id.github.io](https://idtc-id.github.io)**
+
+## Kelompok Kerja
+
+| Pokja | Fokus | Handbook | Repo keluaran |
+|---|---|---|---|
+| **Pokja 1** | Standar & Kebijakan — *membangun fondasi tata kelola* | [pokja1-handbook](https://github.com/idtc-id/pokja1-handbook) | [standar-dan-panduan](https://github.com/idtc-id/standar-dan-panduan) |
+| **Pokja 2** | Pilot Project — *membuktikan melalui implementasi nyata* | [pokja2-handbook](https://github.com/idtc-id/pokja2-handbook) | [pilot-template](https://github.com/idtc-id/pilot-template) → `pilot-*` |
+| **Pokja 3** | SDM & Ekosistem — *membangun kapasitas dan ekosistem* | [pokja3-handbook](https://github.com/idtc-id/pokja3-handbook) | [materi-belajar](https://github.com/idtc-id/materi-belajar) |
+
+Tiap Pokja memisahkan **handbook** (cara kerjanya) dari **repo keluaran** (produk kerjanya).
 
 ## Mulai dari sini
 
-| Repo | Isi |
-|---|---|
-| [pokja2-handbook](https://github.com/idtc-id/pokja2-handbook) | Buku pegangan: tujuan, alur kerja, seleksi pilot, kebijakan data, panduan GitHub, diskusi |
-| [pilot-template](https://github.com/idtc-id/pilot-template) | Template standar untuk setiap repo pilot |
-| `pilot-*` | Repo masing-masing pilot project |
+- Baru bergabung? Mulai dari handbook Pokja yang Anda minati.
+- Belum terbiasa dengan GitHub? Baca
+  [panduan untuk pemula](https://github.com/idtc-id/pokja2-handbook/blob/main/docs/05-panduan-github-pemula.md)
+  — berlaku untuk semua repo.
+- Ingin tahu arah standardisasi? Lihat
+  [Kerangka Klasifikasi Standar Digital Twin Indonesia](https://github.com/idtc-id/standar-dan-panduan/tree/main/panduan/DT-F-01-klasifikasi-standar).
 
 ## Cara ikut berkontribusi
 
-1. Kirim username GitHub Anda ke pengurus Pokja 2 untuk ditambahkan ke organisasi.
-2. Baca [panduan GitHub untuk pemula](https://github.com/idtc-id/pokja2-handbook/blob/main/docs/05-panduan-github-pemula.md).
-3. Ikut diskusi di tab **Discussions** repo `pokja2-handbook`, atau ambil issue berlabel `good-first-issue`.
+1. Kirim username GitHub Anda ke pengurus Pokja terkait untuk ditambahkan ke organisasi.
+2. Baca handbook Pokja tersebut.
+3. Ikut diskusi di tab **Discussions**, atau ambil issue berlabel `good-first-issue`.
 
 ## Prinsip kami
 
